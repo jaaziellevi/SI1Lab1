@@ -1,1 +1,1 @@
-testando conflitos no branch secundario
+testando conflito no branch secundario
