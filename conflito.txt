@@ -1,1 +1,2 @@
-Testando conflitos no branch principal
+Sem conflitos no branch principal
+
